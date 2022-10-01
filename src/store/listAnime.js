@@ -457,4 +457,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/47161/Shikkakumon_no_Saikyou_Kenja",
   },
+  {
+    animeEmoji: "🔯🧝‍♂️🎇🎏",
+    animeName: "Shikimori's Not Just a Cutie",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/45613/Kawaii_dake_ja_Nai_Shikimori-san",
+  },
 ];
